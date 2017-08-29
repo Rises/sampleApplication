@@ -1,0 +1,6 @@
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\bin\Debug\hello-test.exe.config
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\bin\Debug\hello-test.exe
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\bin\Debug\hello-test.pdb
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\obj\Debug\hello-test.csprojResolveAssemblyReference.cache
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\obj\Debug\hello-test.exe
+c:\users\paritoshlouhan\documents\visual studio 2015\Projects\hello-test\hello-test\obj\Debug\hello-test.pdb
